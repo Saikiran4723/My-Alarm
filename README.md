@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 Live demo on [My Alarm](myalarm.ccbp.tech)
+- 🔭 Live demo on myalarm.ccbp.tech
 
 - 🌱 I have completed a course in **Full Stack development with AI**
 
