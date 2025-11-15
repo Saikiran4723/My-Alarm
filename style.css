@@ -99,13 +99,12 @@ input[type="file"] {
 /* ✅ Button Section */
 .buttons {
     margin-top: 10px;
+    display: flex;
 }
 
 button {
     background-color: #38BDF8;
     color: #0F172A;
-    display: flex;
-    flex-direction:row;
     font-weight: 600;
     border: none;
     padding: 10px 20px;
